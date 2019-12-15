@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLiney")y;
+            Console.WriteLine("yANAI IS AN ASSHOLE MNBKJBKBH7Y 7J7J7J7J7J7J7JBGMVF5")
         }
     }
 }
